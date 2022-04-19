@@ -1,0 +1,100 @@
+.container img{
+    width: 80px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#FF5898 0%,#FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px yellowgreen;
+    border-radius: 20px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding-top: 10%;
+}
+#button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sabit{
+    text-align: center;
+}
+.container{
+    margin-bottom: 50px;
+}
+#green{
+    color: green;
+}
+#red{
+    color: red;
+}
+#catagoriesId{
+    margin-bottom: 100px;
+}
+ #beauty, #shoes{
+    box-shadow: 2px 2px 5px gray;
+
+    border-radius: 10px;
+    width:80%;
+    margin-bottom: 30px;
+  
+    
+}
+
+
+
+.margin{
+    /* margin-top: 150px; */
+}
+
+
+#single{
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 2px 2px 5px gray;
+    width: 80%;
+    
+}
+#image{
+    display: block;
+    width: 80%;
+    margin: auto;
+
+    
+}
+.carousel-indicators [data-bs-target]{
+    background-color: orange;
+}
+.carousel-inner{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-size: 5%;
+    background-position: center;
+    
+    
+    
+}
+#text{
+    padding-left: 30px;
+}
+body{
+    background-image: url("images/bg-2.png"); 
+    background-repeat: no-repeat;
+    background-size: 8%;
+    background-position: left  top 650px;
+}
+
